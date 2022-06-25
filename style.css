@@ -11,7 +11,8 @@ body{
     
 }
 main{ background-color: hsl(0, 100%, 74%);
-background-image: url("pictures/cloth.jpg");/*
+background-image: url("pictures/cloth.jpg"); object-fit: cover;
+/*
 background-blend-mode: exclusion;*/
 background-position: center; 
 background-size: cover;
